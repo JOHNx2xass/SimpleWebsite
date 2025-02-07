@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platech</title>
+</head>
+
+<body>
+
+    <h1>Starlight of Sky</h1>
+    <p>Web Developer | Designer | Porsya's Student</p>
+
+    <h2>Contact Me</h2>
+    <p>Email: StarlightOfSky@example.com</p>
+    <p>Facebook: <a href="#">Starlight of Skye Page</a></p>
+</body>
+
+</html>
